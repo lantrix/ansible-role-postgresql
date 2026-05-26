@@ -25,11 +25,14 @@ galaxy_info:
         - bionic
         - focal
         - jammy
+        - noble
+        - resolute
     - name: Debian
       versions:
         - buster
         - bullseye
         - bookworm
+        - trixie
   galaxy_tags:
     - database
     - postgresql
